@@ -58,9 +58,9 @@ A passionate AI engineer who enjoys solving real-world problems — from on-devi
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
- 🟢 Junior Edge AI Engineer — Kruthak Technology
+### 🟢 Junior Edge AI Engineer — Kruthak Technology
 📅 *Jan 2026 – Present · Bengaluru, India*
 
 - Refactored a monolithic backend into microservices (Auth, Vision, Analytics), reducing average inter-service response time by ~30% and enabling independent deployability across services.
