@@ -60,7 +60,6 @@ A passionate AI engineer who enjoys solving real-world problems — from on-devi
 
 ## 💼 Experience
 
----
 
 ### 🟢 Junior Edge AI Engineer — Kruthak Technology
 📅 *Jan 2026 – Present · Bengaluru, India*
