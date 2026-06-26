@@ -58,7 +58,12 @@ A passionate AI engineer who enjoys solving real-world problems — from on-devi
 
 ---
 
-### 💼 Experience
+## 💼 Experience
+
+---
+
+### 🟢 Junior Edge AI Engineer — Kruthak Technology
+📅 *Jan 2026 – Present · Bengaluru, India*
 
 - Refactored a monolithic backend into microservices (Auth, Vision, Analytics), reducing average inter-service response time by ~30% and enabling independent deployability across services.
 - Engineered Agentic RAG workflows with LangChain and hybrid search over ChromaDB / Qdrant, resolving complex student queries with improved retrieval accuracy.
@@ -66,14 +71,22 @@ A passionate AI engineer who enjoys solving real-world problems — from on-devi
 - Automated container build and deployment to GCP Cloud Run using GitHub Actions CI/CD, reducing manual deployment time from ~45 min to ~8 min.
 - Integrated Computer Vision (OpenCV) into the product suite for real-time visual analysis, extending LexiGuid's capabilities beyond text-based query resolution.
 
-- **Software Engineering Trainee** @ *Kruthak Technology* (Jul 2025 – Dec 2025)
+---
+
+### 🔵 Software Engineering Trainee — Kruthak Technology
+📅 *Jul 2025 – Dec 2025 · Bengaluru, India*
+
 - Built and iterated on core backend services for LexiGuid using RESTful microservices patterns, deploying containerised workloads to GCP Cloud Run with Docker.
 - Developed the initial MVP of LexiGuid, an AI-powered educational assistant — designing the foundational RAG pipeline and vector search infrastructure (Qdrant) for accurate student query resolution.
 - Engineered a Python + OpenCV video-to-frame extraction pipeline for **COFRO** (Coffee Ripe Object Detection), processing multi-condition field footage into a structured image corpus — preserving blur, low-light, and motion artifacts to improve YOLOX model generalisation in real-world conditions.
 - Manually annotated ~30,000 coffee bean images across 7 ripeness classes using Roboflow, producing high-precision ground-truth labels for a custom object detection model deployed on the **Hailo-8L** edge AI accelerator.
 - Scaled the training dataset from 30K → ~3 lakh images via systematic augmentation (rotation, tilt, flip, brightness variation), improving model robustness across variable lighting and orientations at production deployment.
 
-- **AI / Machine Learning Engineer Intern** @ *Rooman Technologies (IBM Partnership)* (Sep 2024 – Feb 2025)
+---
+
+### 🟡 AI / ML Engineer Intern — Rooman Technologies *(IBM Partnership)*
+📅 *Sep 2024 – Feb 2025 · Puttur, India*
+
 - Completed a 480-hour internship building AI solutions under IBM's mentorship, focused on enterprise-grade NLP and customer analytics.
 - Delivered **Cognitive Customer Insights with Watson AI** — an end-to-end pipeline leveraging IBM Watson for sentiment analysis, emotion recognition, and unstructured data processing.
 - Applied regression and classification techniques to derive actionable customer behaviour insights, directly supporting business decision-making workflows.
